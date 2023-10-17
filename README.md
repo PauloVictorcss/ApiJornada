@@ -21,3 +21,6 @@
   <img align="center" alt="IntellijIDE" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div><br>
+
+![Captura de tela 2023-10-17 095642](https://github.com/PauloVictorcss/ApiJornada/assets/123316548/4bbc7b04-16cc-410a-97b8-47037fa3e973)
+
